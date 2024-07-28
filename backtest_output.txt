@@ -1,0 +1,17 @@
+Initial Cash: 1000000000
+Final Cash: 487909270.0
+Total Return: -0.51
+Monthly Returns:
+Month 1: -0.03
+Month 2: -0.14
+Month 3: -0.27
+Month 4: -0.00
+Month 5: -0.09
+Month 6: -0.06
+Month 7: -0.05
+Month 8: -0.05
+Month 9: -0.01
+Month 10: -0.07
+Month 11: -0.07
+Month 12: 0.18
+Month 13: 0.03
