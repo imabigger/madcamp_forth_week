@@ -58,6 +58,8 @@ This project aims to predict Bitcoin prices by leveraging financial indicators a
   - Bi-GRU: 1,875,465,368 KRW (87.5% profit)
   - Bi-LSTM: 1,191,535,690 KRW (11.9% profit)
   - Final Model: 2,054,507,142 KRW (105% profit)
+![스크린샷 2024-07-25 오후 8 54 50](https://github.com/user-attachments/assets/91385d53-cb87-43a1-817f-70247e72d2db)
+
 
 ## Challenges
 
