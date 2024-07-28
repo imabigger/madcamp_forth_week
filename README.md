@@ -73,7 +73,7 @@ I will try this model in real korea bitcoin market.
 ## Contributors
 
 - **박종민**
-- **이시준**
+- **이시준 (mac520@naver.com)**
 
 ---
 
